@@ -15,5 +15,5 @@ NAiDefault,"masterpiece, best quality","text, lowres, cropped, worst quality, lo
 隐藏手掌,"","lower arms,hands,palms"
 1,1,
 长T恤,"t-shirt, long t-shirt, narrow waist t-shirt, t-shirt over hips, short dress","bare, nafw, sagging breast, crop top"
-
-
+Counterfeit模型专用,"((best quality, masterpiece)), delicate","EasyNegative, extra legs, extra hands"
+橘子模型专用,"((best quality, masterpiece)), delicate","(worst quality, low quality:1.4)"
