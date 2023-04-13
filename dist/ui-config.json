@@ -1,6 +1,6 @@
 {
     "txt2img/Prompt/visible": true,
-    "txt2img/Prompt/value": "masterpiece, best quality,\n\n,delicate, beautiful,colorful, vividcolor, lighting,\n",
+    "txt2img/Prompt/value": "Free AI painting, viewing → https://community.hua-der.com",
     "txt2img/Negative prompt/visible": true,
     "txt2img/Negative prompt/value": "((full body)), (NSFW, naked:1.5), bright lantern, brightness, EasyNegative, paintings, sketches, (worst quality:1.4), (low quality:1.4), , lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,
 fewer fingers,strange fingers,((bad hand)),Hand grip,(lean),Extra ears,(Four ears),Strange eyes,((Bare nipple)),(three arms),Many hands,(Many arms),((watermarking)),",
